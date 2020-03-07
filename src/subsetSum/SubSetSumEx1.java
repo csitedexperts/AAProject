@@ -1,5 +1,7 @@
+package subsetSum;
 // A Java program to count all subsets with given sum. 
 import java.util.ArrayList; 
+
 public class SubSetSumEx1 
 { 
     // dp[i][j] is going to store true if sum j is 
@@ -96,7 +98,7 @@ public class SubSetSumEx1
         int arr[] = {1, 2, 3, 4, 5}; 
         int n = arr.length; 
         int sum = 10; 
+        System.out.println("The subset with sum = " + sum + " found as follows: ");
         printAllSubsets(arr, n, sum); 
     } 
 } 
-//This code is contributed by Sumit Ghosh 
