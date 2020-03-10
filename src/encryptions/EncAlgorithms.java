@@ -5,7 +5,7 @@ public class EncAlgorithms{
 
 	public static String diffModEnc(String phNumber) {
 
-		int[] diffArray = new int[9];
+		int[] diffArray = new int[100];
 		int sumDiff = 0;
 		
 		System.out.print("Digits differences are: ");
@@ -18,7 +18,7 @@ public class EncAlgorithms{
 			sumDiff += diffArray[i]; 
 		}
 
-		System.out.println("\nSum of the digit differences is: " + Math.abs(sumDiff));
+		System.out.println("\nSum of the absolute digit differences is: " + Math.abs(sumDiff));
 		int addTo = Math.abs(sumDiff);
 
 		String diffModEncNumber = "";
