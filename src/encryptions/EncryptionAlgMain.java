@@ -13,12 +13,19 @@ public class EncryptionAlgMain {
 			System.out.print("Enter a phone number [000 to exit]: ");
 			number = scanner.nextLine();
 			if (number.equals(flag)) 
+			{
+				System.err.println("Program terminnated");
 				return;
-			else
-
+			} 
+			else{
 				System.out.println("Using diffModEnc(), the encrypted phone number is: " + EncAlgorithms.diffModEnc(number));
+				
+			}
+
 		}
+		
 		scanner.close();
+		
 	}
 
 
