@@ -8,12 +8,16 @@ public class EncryptionAlgMain {
 
 		Scanner scanner = new Scanner(System.in);
 
-		System.out.print("Enter a phone number: ");
-		
-		String number = scanner.nextLine();
+		String number = "", flag = "000";
+		while (!number.equals(flag)){
+			System.out.print("Enter a phone number [000 to exit]: ");
+			number = scanner.nextLine();
+			if (number.equals(flag)) 
+				return;
+			else
 
-		System.out.println("Using diffModEnc(), the encrypted phone number is: " + EncAlgorithms.diffModEnc(number));
-		
+				System.out.println("Using diffModEnc(), the encrypted phone number is: " + EncAlgorithms.diffModEnc(number));
+		}
 		scanner.close();
 	}
 
