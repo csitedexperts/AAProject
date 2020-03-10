@@ -10,12 +10,11 @@ public class EncryptionAlgMain {
 
 		System.out.print("Enter a phone number: ");
 		
-		long number = scanner.nextLong();
+		String number = scanner.nextLine();
 
-		System.out.println("Using the reverseANumber() the phone number is " + EncAlgorithms.reverseANumber(number));
-
-		System.out.println("Using the diffModEnc() The phone number is " + EncAlgorithms.diffModEnc(number));
+		System.out.println("Using diffModEnc(), the encrypted phone number is: " + EncAlgorithms.diffModEnc(number));
 		
+		scanner.close();
 	}
 
 

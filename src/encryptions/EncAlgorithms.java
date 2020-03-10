@@ -2,44 +2,32 @@ package encryptions;
 
 public class EncAlgorithms{
 
-	public static long reverseANumber(long number) {
 
-		long lastDigit, reversedNumber = 0;
+	public static String diffModEnc(String phNumber) {
 
-		do
-		{
-			lastDigit = number % 10;
-			reversedNumber = (reversedNumber * 10) + lastDigit;
-			number = number / 10;
-		} while (number > 0); 
-
-		return reversedNumber;
-
-	}
-
-	public static long diffModEnc(long number) {
-
-		String strNumber = "" + number;
 		int[] diffArray = new int[9];
 		int sumDiff = 0;
-		for (int i = 0; i< strNumber.length()-1; i++)
+		
+		System.out.print("Digits differences are: ");
+		
+		for (int i = 0; i< phNumber.length()-1; i++)
 		{
 
-			diffArray[i] = strNumber.charAt(i+1) - strNumber.charAt(i);
-			System.out.println("diffArray["+i+"]: " + diffArray[i]);
+			diffArray[i] = phNumber.charAt(i+1) - phNumber.charAt(i);
+			System.out.print(diffArray[i] + " ");
 			sumDiff += diffArray[i]; 
 		}
 
-		System.out.println("sumDiff: " + Math.abs(sumDiff));
+		System.out.println("\nSum of the digit differences is: " + Math.abs(sumDiff));
 		int addTo = Math.abs(sumDiff);
 
 		String diffModEncNumber = "";
-		for (int i = 0; i< strNumber.length(); i++)
+		for (int i = 0; i< phNumber.length(); i++)
 		{
-			diffModEncNumber += ((Character.getNumericValue(strNumber.charAt(i)) + addTo) % 10);
+			diffModEncNumber += ((Character.getNumericValue(phNumber.charAt(i)) + addTo) % 10);
 
 		}
-		return Long.parseLong(diffModEncNumber);
+		return diffModEncNumber;
 
 	}
 }
