@@ -1,0 +1,32 @@
+
+var ftGUID_3586230="4202110458CE00";
+var ftConfID_3586230="19437253";
+var ftParams_3586230="ftx=&fty=&ftadz=&ftscw=&ft_custom=1781800_23720522_266240765&ft_section=ftgeneraltf&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.programcreek.com%2F2012%2F12%2Fhow-to-make-a-web-crawler-using-java%2F&ft_keyword=ftgeneraltf&cachebuster=342481.4358461796";
+var ftKeyword_3586230="general,ftgeneraltf";
+var ftCustom_3586230="1781800_23720522_266240765";
+var ftSection_3586230="ftgeneraltf";
+var ftSegment_3586230="xtx,um2,yo5,uxf,uxg,xtw,w2c,n7h,aemsku7420309,aem,xul,v6j,xqs,tg1,aaee,aaeg,x2e,aaxq,ymb,uxn,tapATL_DFW,ffv,eqx,eqy,eqy96048,eqx96048,eq0,eq096048,ffv74abb,wbo,lm3_pdxrp,yxv,yxvpdxrp,yxs,yxspdxrp,q3p_DT_v2,u0x,x2o,uyo,ab18,y41_25bee482055a40cea52bb0434d74af5c";
+var ftSegmentList_3586230=[{s:'xtx'},{s:'um2'},{s:'yo5'},{s:'uxf'},{s:'uxg'},{s:'xtw'},{s:'w2c'},{s:'n7h'},{m:'c1122_lv',s:'aemsku7420309'},{s:'aem'},{s:'xul',t:42560000},{s:'v6j'},{s:'xqs'},{s:'tg1'},{s:'aaee'},{s:'aaeg'},{m:'c12345_XM_SUB_NONSUB',s:'x2e'},{s:'aaxq'},{s:'ymb'},{s:'uxn'},{m:'c1777_priceline',s:'tapATL_DFW'},{m:'ffeohs_m',s:'ffv',t:44300000},{s:'eqx',t:44300000},{s:'eqy',t:44300000},{m:'c4631_c',s:'eqy96048',t:44300000},{m:'c4631_v',s:'eqx96048',t:44300000},{s:'eq0',t:44300000},{m:'c4631_p',s:'eq096048',t:44300000},{m:'ffeohs_s',s:'ffv74abb'},{s:'wbo'},{m:'c8445_prop',s:'lm3_pdxrp'},{s:'yxv'},{m:'hyvxy',s:'yxvpdxrp'},{s:'yxs'},{m:'hysxy',s:'yxspdxrp'},{m:'c6527_rt',s:'q3p_DT_v2'},{s:'u0x'},{m:'c12345_Resi_RTG_SUB_NONSUB',s:'x2o'},{s:'uyo'},{s:'ab18'},{m:'c_SV_12345',s:'y41_25bee482055a40cea52bb0434d74af5c'}];
+var ftRuleMatch_3586230="00010000";
+var ftTimestamp_3586230="1584631579";
+var ftGeoC2_3586230="us";
+var ftGeoState_3586230="ga";
+var ftGeoCity_3586230="atlanta";
+var ftISP_3586230="comcast cable communications inc.";
+var ftSpeed_3586230="cable";
+var ftDMA_3586230="524";
+var ftLong_3586230="-84.33";
+var ftLat_3586230="33.88";
+var ftPostal_3586230="30319";
+var ftTimeZone_3586230="-400";
+var ftMobileCarrier_3586230="";
+var ftImp3586230 = {};
+ftImp3586230.privacy = "x";
+ftImp3586230.guidAge = "259";
+ftImp3586230.impID = "239463FD-DFC1-CD2F-0B02-95074B6F73B6";
+ftImp3586230.duid = "FT:4202110458CE00";
+
+ftImp3586230.ft_tpplid = "";
+ftImp3586230.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/358/3586230/2225754/js/j-3586230-2225754.js" id="ftscript_m3586230" name="ftscript_m3586230"></scr'+'ipt>');
