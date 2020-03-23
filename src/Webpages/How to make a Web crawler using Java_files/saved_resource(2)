@@ -1,0 +1,32 @@
+
+var ftGUID_4449417="4202110458CE00";
+var ftConfID_4449417="19978674";
+var ftParams_4449417="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.programcreek.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.programcreek.com%2F2012%2F12%2Fhow-to-make-a-web-crawler-using-java%2F&cachebuster=982567.9221344539";
+var ftKeyword_4449417="";
+var ftCustom_4449417="";
+var ftSection_4449417="";
+var ftSegment_4449417="xtx,um2,yo5,uxf,uxg,xtw,w2c,n7h,aemsku7420309,aem,xul,v6j,xqs,tg1,aaee,aaeg,x2e,aaxq,ymb,uxn,tapATL_DFW,ffv,eqx,eqy,eqy96048,eqx96048,eq0,eq096048,ffv74abb,wbo,lm3_pdxrp,yxv,yxvpdxrp,yxs,yxspdxrp,q3p_DT_v2,u0x,x2o,uyo,ab18,y41_25bee482055a40cea52bb0434d74af5c";
+var ftSegmentList_4449417=[{s:'xtx'},{s:'um2'},{s:'yo5'},{s:'uxf'},{s:'uxg'},{s:'xtw'},{s:'w2c'},{s:'n7h'},{m:'c1122_lv',s:'aemsku7420309'},{s:'aem'},{s:'xul',t:42560000},{s:'v6j'},{s:'xqs'},{s:'tg1'},{s:'aaee'},{s:'aaeg'},{m:'c12345_XM_SUB_NONSUB',s:'x2e'},{s:'aaxq'},{s:'ymb'},{s:'uxn'},{m:'c1777_priceline',s:'tapATL_DFW'},{m:'ffeohs_m',s:'ffv',t:44300000},{s:'eqx',t:44300000},{s:'eqy',t:44300000},{m:'c4631_c',s:'eqy96048',t:44300000},{m:'c4631_v',s:'eqx96048',t:44300000},{s:'eq0',t:44300000},{m:'c4631_p',s:'eq096048',t:44300000},{m:'ffeohs_s',s:'ffv74abb'},{s:'wbo'},{m:'c8445_prop',s:'lm3_pdxrp'},{s:'yxv'},{m:'hyvxy',s:'yxvpdxrp'},{s:'yxs'},{m:'hysxy',s:'yxspdxrp'},{m:'c6527_rt',s:'q3p_DT_v2'},{s:'u0x'},{m:'c12345_Resi_RTG_SUB_NONSUB',s:'x2o'},{s:'uyo'},{s:'ab18'},{m:'c_SV_12345',s:'y41_25bee482055a40cea52bb0434d74af5c'}];
+var ftRuleMatch_4449417="00001010";
+var ftTimestamp_4449417="1584631579";
+var ftGeoC2_4449417="us";
+var ftGeoState_4449417="ga";
+var ftGeoCity_4449417="atlanta";
+var ftISP_4449417="comcast cable communications inc.";
+var ftSpeed_4449417="cable";
+var ftDMA_4449417="524";
+var ftLong_4449417="-84.33";
+var ftLat_4449417="33.88";
+var ftPostal_4449417="30319";
+var ftTimeZone_4449417="-400";
+var ftMobileCarrier_4449417="";
+var ftImp4449417 = {};
+ftImp4449417.privacy = "x";
+ftImp4449417.guidAge = "259";
+ftImp4449417.impID = "CD55189C-109C-B722-EB31-640D88C319F6";
+ftImp4449417.duid = "FT:4202110458CE00";
+
+ftImp4449417.ft_tpplid = "";
+ftImp4449417.ft_c = {};
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/444/4449417/3004439/js/j-4449417-3004439.js" id="ftscript_m4449417" name="ftscript_m4449417"></scr'+'ipt>');

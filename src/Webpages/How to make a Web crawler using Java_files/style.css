@@ -1,0 +1,222 @@
+* {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  mobile webkit -moz-tap-highlight-color: rgba(255, 255, 255, 0);
+  -ms-tap-highlight-color: rgba(255, 255, 255, 0);
+  tap-highlight-color: rgba(255, 255, 255, 0);
+  vertical-align: baseline;
+  font-weight: inherit;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  border: 0 none;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  /*    -webkit-perspective: 1000px;*/
+  /*    -moz-perspective: 1000px;*/
+  /*    -ms-perspective: 1000px;*/
+  /*    -o-perspective: 1000px;*/
+  /*    perspective: 1000px;*/
+  /*
+    -webkit-perspective: 10px;
+    -moz-perspective: 10px;
+    -ms-perspective: 10px;
+    perspective: 10px;
+*/
+}
+
+div {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#main {
+  width: 726px;
+  height: 88px;
+  border: 1px solid black;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  display: none;
+  position: absolute;
+  background-color: white;
+  cursor: pointer;
+}
+
+#f1HeadCont,
+#f2HeadCont,
+#f3HeadCont {
+  position: absolute;
+  /* top: 30.5px;
+  left: 21px; */
+  font-family: 'Roboto';
+  font-size: 21px;
+  font-weight: 900;
+  line-height: .91em; /*13.5px*/
+  color: #fff;
+}
+
+#endfrHeadCont {
+  position: absolute;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 900;
+  line-height: 30px;
+  color: #fff;
+}
+
+.img {
+  width: 728px;
+  height: 90px;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+}
+
+.frame1,
+.frame2,
+.frame3,
+.endFrame {
+  position: absolute;
+  width: 728px;
+  height: 90px;
+  top: -1px;
+  left: -1px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s ease;
+  -moz-transition: opacity 0.5s ease;
+  -ms-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+}
+
+.frame1 {
+  opacity: 1;
+}
+
+.headlineCont {
+  overflow: hidden;
+  line-height: 1.05em;
+}
+
+.headTop {
+  color: #084B8E;
+  position: relative;
+}
+
+.rel {
+  position: relative;
+}
+
+.fr1Headline,
+.fr2Headline,
+.fr3Headline {
+  position: absolute;
+}
+
+#f1Head span,
+#f2Head span,
+#f3Head span {
+  display: inline-block;
+}
+
+#endfrHeadline {
+  position: relative;
+}
+
+#endfrCtaImg {
+  pointer-events: none;
+  z-index: 2;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s;
+  -moz-transition: opacity 0.5s;
+  -ms-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+}
+
+#endfrHeadTop {
+  font-size: 25px;
+  line-height: 20.5px;
+}
+
+.endfrHead {
+  position: relative;
+  left: -25px;
+  opacity: 0;
+  -webkit-transition: opacity 0.5s, left 0.5s ease;
+  -moz-transition: opacity 0.5s, left 0.5s ease;
+  -ms-transition: opacity 0.5s, left 0.5s ease;
+  transition: opacity 0.5s, left 0.5s ease;
+}
+
+.endfrHeadPos {
+  left: 0px;
+  opacity: 1;
+  font-size: 11px;
+}
+
+.slideImgCont {
+  position: absolute;
+  width: 635px;
+  height: 90px;
+  overflow: hidden;
+}
+
+.slideDown {
+  -webkit-transition: transform 0.6s ease;
+  -moz-transition: transform 0.6s ease;
+  -ms-transition: transform 0.6s ease;
+  transition: transform 0.6s ease;
+}
+
+.slideLogoImg {
+  transform: translate(0px, 0px);
+  -webkit-transition: transform 0.5s ease;
+  -moz-transition: transform 0.5s ease;
+  -ms-transition: transform 0.5s ease;
+  transition: transform 0.5s ease;
+}
+
+.headPos {
+  transform: translate(0px, -150px);
+}
+
+.slidePos {
+  transform: translate(100px, 0px);
+}
+
+#exit {
+  width: 728px;
+  height: 90px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  cursor: pointer;
+}
+
+p {
+  display: inline;
+}
+
+#guide {
+  width: 728px;
+  height: 90px;
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  opacity: .5;
+  background-image: url("../../guide/lowes_Guide4.jpg");
+}

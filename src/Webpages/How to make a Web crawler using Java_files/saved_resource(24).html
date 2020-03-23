@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!-- saved from url=(0012)about:srcdoc -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://cdn.revjet.com/s3/csp/1573248629552/" target="_blank">--><base href="." target="_blank"><style type="text/css">body, html {padding:0; margin:0; cursor:pointer;}</style><script type="text/javascript">window.revjet = { };Object.defineProperty(window.revjet, "elements", {  set: function() { },  get: function() { return window.parent.revjet.elements; }});Object.defineProperty(window.revjet, "elements_api", {  set: function() { },  get: function() { return window.parent.revjet.elements_api; }});Object.defineProperty(window, "click_url", {  set: function(url) { window.parent.click_url = url; },  get: function() { return window.parent.click_url; }});Object.defineProperty(window, "click_target", {  set: function(url) { window.parent.click_target = url; },  get: function() { return window.parent.click_target; }});
+if (document.readyState !== "loading") {  window.parent.revjet.elements.onAssetReady2_();} else {  document.addEventListener("DOMContentLoaded", window.parent.revjet.elements.onAssetReady2_, false);}
+</script>
+
+
+        <title></title>
+        <link rel="stylesheet" href="https://cdn.revjet.com/s3/csp/1573248629552/style.css">
+
+    </head>
+    <body marginwidth="0" marginheight="0">
+
+      <div id="container">
+          <img class="logo" src="https://cdn.revjet.com/s3/csp/1573248629552/BS_THD_Logo_Primary_RGB_wo_themeline.svg">
+          
+          <div class="themeline_container animate">
+          	<img class="themeline" src="https://cdn.revjet.com/s3/csp/1573248629552/BS_THD_Logo_RGB_Global_Stacked_Right_blacktag.svg">
+      	  </div>
+      </div>
+
+      <script>
+        exitBtn = document.getElementById('container');
+
+
+          defaultClickHandler = function(e) {
+
+               if (window.revjet && window.revjet.elements_api) {
+                                 //window.revjet.elements_api.goToLPEventByName(e.originalEvent?e.originalEvent:e, 'Resting Frame/Toggle 1');
+                 window.revjet.elements_api.goToLP(e.originalEvent?e.originalEvent:e);
+                 
+                                 // console.log('background');
+                             }
+                           console.log('background exit');
+                           e.stopPropagation();
+                           e.preventDefault();
+           }
+
+           addListeners = function (){
+
+             exitBtn.addEventListener('click', defaultClickHandler, false);
+           }
+
+           addListeners();
+
+
+              if (window.revjet && window.revjet.elements_api) {
+                  window.revjet.elements_api.listen('show', function() {
+
+
+                      document.querySelector('.themeline_container').classList.add('animate');
+
+
+                      
+                  })
+              } else {
+
+                  document.querySelector('.themeline_container').classList.add('animate');
+
+                  
+              }
+
+        </script>
+    
+
+</body></html>

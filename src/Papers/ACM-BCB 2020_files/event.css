@@ -1,0 +1,314 @@
+.event {
+  padding: 1rem 1rem 1rem 0;
+  display: table; }
+
+.event-date {
+  width: 6rem;
+  margin: 0 auto 1rem;
+  display: table-cell;
+  width: auto; }
+  .event-date .event-month {
+    margin: 0;
+    background: #eee;
+    padding: 0.5rem 2rem;
+    text-align: center; }
+  .event-date .event-day {
+    margin: 0;
+    border: 1px solid #eee;
+    padding: 0 2rem;
+    text-align: center;
+    font-size: 2rem; }
+
+.event-desc {
+  padding: 0 0 0 1rem;
+  text-align: left;
+  display: table-cell;
+  vertical-align: top; }
+  .event-desc .event-desc-header {
+    margin: 0 0 0.5rem 0;
+    padding: 0; }
+  .event-desc .event-desc-detail {
+    margin: 0 0 0.25rem;
+    padding: 0; }
+  .event-desc .event-desc-time {
+    font-weight: bold; }
+  .event-desc .rsvp.button {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin: 0; }
+
+.callout-card {
+
+  background: white;
+
+  border: 1px solid #333;
+
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+
+  margin: 1rem 0;
+
+  overflow: hidden; }
+
+  .callout-card .card-label {
+
+    border-color: transparent #333 transparent transparent;
+
+    border-color: rgba(255, 255, 255, 0) #333333 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.primary {
+
+    border-color: #446cb3; }
+
+    .callout-card.primary .card-label {
+
+      border-color: transparent #446cb3 transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #446cb3 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.secondary {
+
+    border-color: #adb2bd; }
+
+    .callout-card.secondary .card-label {
+
+      border-color: transparent #adb2bd transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #adb2bd rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.info {
+
+    border-color: #89c4f4; }
+
+    .callout-card.info .card-label {
+
+      border-color: transparent #89c4f4 transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #89c4f4 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.alert {.inner-wrap {
+  width: auto; }
+
+.move-right .inner-wrap {
+  -ms-transform: none;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+  margin-left: 114px; }
+
+.left-off-canvas-menu {
+  -ms-transform: none;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+  position: fixed;
+  width: 0;
+  height: 100%; }
+
+.move-right .left-off-canvas-menu {
+  width: 114px; }
+
+.move-right .exit-off-canvas {
+  display: none; }
+
+.left-off-canvas-toggle {
+  display: none;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  font-size: 3rem;
+  color: #333;
+  transition: all .25s ease-in-out; }
+  .left-off-canvas-toggle:focus {
+    color: #333; }
+  .left-off-canvas-toggle:hover {
+    color: #8c8c8c;
+    transition: all .25s ease-in-out; }
+
+.ad-block {
+  margin-bottom: 2rem; }
+
+    border-color: #f22613; }
+
+    .callout-card.alert .card-label {
+
+      border-color: transparent #f22613 transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #f22613 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.success {
+
+    border-color: #87d37c; }
+
+    .callout-card.success .card-label {
+
+      border-color: transparent #87d37c transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #87d37c rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card.warning {
+
+    border-color: #f89406; }
+
+    .callout-card.warning .card-label {
+
+      border-color: transparent #f89406 transparent transparent;
+
+      border-color: rgba(255, 255, 255, 0) #f89406 rgba(255, 255, 255, 0) rgba(255, 255, 255, 0); }
+
+  .callout-card .card-label {
+
+    border-style: solid;
+
+    border-width: 0 70px 40px 0;
+
+    float: right;
+
+    height: 0px;
+
+    width: 0px;
+
+    transform: rotate(360deg); }
+
+  .callout-card .callout-card-content {
+
+    padding: 0.5rem 1.5rem 0.875rem; }
+
+  .callout-card.radius {
+
+    border-radius: 0.6rem; }
+
+  .callout-card .label-text {
+
+    color: #fff;
+
+    font-size: 0.75rem;
+
+    font-weight: bold;
+
+    position: relative;
+
+    right: -40px;
+
+    top: 2px;
+
+    white-space: nowrap;
+
+    transform: rotate(30deg); }
+
+  .card {
+
+  overflow: hidden;
+
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
+  border-radius: 2px; }
+
+  .card .title {
+
+      padding: .175rem;
+
+    line-height: 3rem;
+
+    font-size: 1.5rem;
+
+    font-weight: 300; }
+
+  .card .content {
+
+      padding: .5rem;
+
+    font-weight: 300;
+
+    border-radius: 0 0 2px 2px; }
+
+  .card td {
+      padding: .1rem;
+  }
+  .card th {
+      padding: .1rem;
+  }
+
+  .card p {
+
+    margin: 0; }
+
+  .card .action {
+
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+
+    padding: 1.3rem; }
+
+  .card a {
+
+    transition: color 0.3s ease;
+
+    text-decoration: none; }
+
+  .card .image {
+
+    position: relative; }
+
+    .card .image .title {
+
+      position: absolute;
+
+      bottom: 0;
+
+      left: 0;
+
+      padding: 1.3rem;
+
+      color: #fff; }
+
+    .card .image img {
+
+      border-radius: 2px 2px 0 0; }
+
+.inner-wrap {
+  width: auto; }
+
+.move-right .inner-wrap {
+  -ms-transform: none;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+  margin-left: 114px; }
+
+.left-off-canvas-menu {
+  -ms-transform: none;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+  position: fixed;
+  width: 0;
+  height: 100%; }
+
+.move-right .left-off-canvas-menu {
+  width: 114px; }
+
+.move-right .exit-off-canvas {
+  display: none; }
+
+.left-off-canvas-toggle {
+  display: none;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  font-size: 3rem;
+  color: #333;
+  transition: all .25s ease-in-out; }
+  .left-off-canvas-toggle:focus {
+    color: #333; }
+  .left-off-canvas-toggle:hover {
+    color: #8c8c8c;
+    transition: all .25s ease-in-out; }
+
+.ad-block {
+  margin-bottom: 2rem; }
+
