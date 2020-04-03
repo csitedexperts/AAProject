@@ -7,7 +7,7 @@ query = 'covid-19' #coronavirus (190), covid-19 (330)
 
 for i in range(1, numofiter+1):
 	params = {
-	  'api_key': '1E709DD034E642279BFEB5C7C4C82BC8',
+	  'api_key': 'your key',
 	  'q': query,
 	  'search_type': 'scholar',
 	  'time_period': 'custom',
