@@ -38,6 +38,7 @@ for count,tr in enumerate(transmissions):
 	G.add_edge(tr[0],tr[1])
 	pos[tr[0]]=(src.longitude, src.latitude)
 	pos[tr[1]]=(des.longitude, des.latitude)
+    
 #lats=[37.96,42.82]
 #lons=[-121.29,-73.95]
 # convert lat and lon to map projection
