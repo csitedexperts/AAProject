@@ -1,0 +1,852 @@
+source,destination,date
+china,thailand,1/8/20
+china,thailand,1/13/20
+china,nepal,1/13/20
+china,usa,1/19/20
+china,hong kong,1/21/20
+china,usa,1/21/20
+china,usa,1/22/20
+china,australia,1/22/20
+china,usa,1/22/20
+china,usa,1/23/20
+china,singapore,1/23/20
+china,japan,1/23/20
+china,canada,1/23/20
+china,taiwan,1/23/20
+china,hong kong,1/23/20
+china,france,1/23/20
+china,france,1/23/20
+china,australia,1/24/20
+china,vietnam,1/24/20
+china,vietnam,1/24/20
+china,australia,1/24/20
+china,taiwan,1/24/20
+china,australia,1/24/20
+china,south korea,1/25/20
+china,hong kong,1/25/20
+china,canada,1/25/20
+china,canada,1/25/20
+china,australia,1/25/20
+china,australia,1/25/20
+china,australia,1/25/20
+china,japan,1/25/20
+malaysia,singapore,1/25/20
+taiwan,japan,1/25/20
+china,singapore,1/27/20
+china,india,1/27/20
+china,cambodia,1/27/20
+china,usa,1/27/20
+china,singapore,1/27/20
+belgium,china,1/28/20
+belgium,germany,1/28/20
+china,usa,1/28/20
+china,australia,1/28/20
+china,taiwan,1/28/20
+china,france,1/28/20
+china,united kingdom,1/29/20
+china,united kingdom,1/29/20
+china,singapore,1/29/20
+china,france,1/29/20
+china,finland,1/29/20
+china,usa,1/29/20
+china,france,1/29/20
+china,italy,1/29/20
+china,italy,1/29/20
+china,japan,1/29/20
+china,usa,1/29/20
+china,south korea,1/30/20
+china,australia,1/30/20
+china,hong kong,1/30/20
+china,australia,1/31/20
+china,india,1/31/20
+china,south korea,1/31/20
+china,taiwan,1/31/20
+china,usa,1/31/20
+china,south korea,2/1/20
+china,hong kong,2/1/20
+china,singapore,2/2/20
+china,australia,2/2/20
+china,singapore,2/3/20
+china,belgium,2/3/20
+china,singapore,2/3/20
+china,taiwan,2/4/20
+china,australia,2/5/20
+china,australia,2/5/20
+china,taiwan,2/5/20
+china,united kingdom,2/5/20
+china,hong kong,2/5/20
+china,south korea,2/6/20
+china,usa,2/6/20
+china,united kingdom,2/7/20
+china,sweden,2/7/20
+china,australia,2/8/20
+china,france,2/8/20
+china,united kingdom,2/8/20
+china,united kingdom,2/9/20
+malaysia,singapore,2/9/20
+china,usa,2/10/20
+china,singapore,2/10/20
+singapore,japan,2/10/20
+china,usa,2/11/20
+china,vietnam,2/11/20
+china,hong kong,2/11/20
+china,hong kong,2/13/20
+china,hong kong,2/13/20
+australia,japan,2/14/20
+china,hong kong,2/15/20
+iran,canada,2/16/20
+china,hong kong,2/17/20
+china,hong kong,2/17/20
+china,singapore,2/18/20
+china,hong kong,2/19/20
+china,malaysia,2/20/20
+china,malaysia,2/20/20
+china,malaysia,2/20/20
+iran,canada,2/20/20
+usa,france,2/21/20
+china,hong kong,2/22/20
+singapore,australia,2/22/20
+china,hong kong,2/23/20
+spain,australia,2/23/20
+belgium,italy,2/24/20
+canada,switzerland,2/24/20
+china,australia,2/24/20
+italy,netherlands,2/24/20
+japan,australia,2/24/20
+australia,united kingdom,2/25/20
+italy,finland,2/25/20
+italy,brazil,2/25/20
+italy,germany,2/25/20
+spain,france,2/25/20
+belgium,united kingdom,2/26/20
+belgium,united kingdom,2/26/20
+belgium,denmark,2/26/20
+canada,france,2/26/20
+germany,austria,2/26/20
+iran,norway,2/26/20
+italy,austria,2/26/20
+italy,switzerland,2/26/20
+usa,switzerland,2/26/20
+usa,france,2/26/20
+usa,france,2/26/20
+australia,united kingdom,2/27/20
+belgium,switzerland,2/27/20
+belgium,united kingdom,2/27/20
+belgium,switzerland,2/27/20
+iran,canada,2/27/20
+iran,new zealand,2/27/20
+italy,iceland,2/27/20
+italy,united kingdom,2/27/20
+italy,nigeria,2/27/20
+italy,switzerland,2/27/20
+italy,mexico,2/27/20
+japan,usa,2/27/20
+south korea,usa,2/27/20
+spain,switzerland,2/27/20
+spain,switzerland,2/27/20
+united kingdom,switzerland,2/27/20
+usa,norway,2/27/20
+belgium,denmark,2/28/20
+china,united kingdom,2/28/20
+china,australia,2/28/20
+france,senegal,2/28/20
+iran,georgia,2/28/20
+iran,australia,2/28/20
+iran,canada,2/28/20
+iran,australia,2/28/20
+italy,brazil,2/28/20
+italy,netherlands,2/28/20
+spain,usa,2/28/20
+switzerland,netherlands,2/28/20
+united kingdom,germany,2/28/20
+united kingdom,germany,2/28/20
+united kingdom,spain,2/28/20
+usa,france,2/28/20
+australia,usa,2/29/20
+belgium,united kingdom,2/29/20
+belgium,luxembourg,2/29/20
+belgium,usa,2/29/20
+belgium,switzerland,2/29/20
+belgium,switzerland,2/29/20
+canada,netherlands,2/29/20
+china,usa,2/29/20
+france,usa,2/29/20
+iran,usa,2/29/20
+iran,australia,2/29/20
+italy,luxembourg,2/29/20
+italy,switzerland,2/29/20
+italy,switzerland,2/29/20
+italy,united kingdom,2/29/20
+south korea,usa,2/29/20
+switzerland,netherlands,2/29/20
+united kingdom,brazil,2/29/20
+australia,norway,3/1/20
+belgium,denmark,3/1/20
+belgium,switzerland,3/1/20
+belgium,switzerland,3/1/20
+china,usa,3/1/20
+iran,canada,3/1/20
+italy,belgium,3/1/20
+italy,finland,3/1/20
+italy,iceland,3/1/20
+italy,czech republic,3/1/20
+italy,iceland,3/1/20
+italy,portugal,3/1/20
+spain,usa,3/1/20
+usa,netherlands,3/1/20
+austria,iceland,3/2/20
+belgium,denmark,3/2/20
+belgium,netherlands,3/2/20
+belgium,switzerland,3/2/20
+china,spain,3/2/20
+china,germany,3/2/20
+china,germany,3/2/20
+france,algeria,3/2/20
+france,usa,3/2/20
+france,senegal,3/2/20
+iran,canada,3/2/20
+iran,kuwait,3/2/20
+iran,australia,3/2/20
+iran,united kingdom,3/2/20
+italy,iceland,3/2/20
+italy,united kingdom,3/2/20
+italy,iceland,3/2/20
+italy,brazil,3/2/20
+italy,iceland,3/2/20
+italy,iceland,3/2/20
+italy,taiwan,3/2/20
+netherlands,united kingdom,3/2/20
+netherlands,belgium,3/2/20
+netherlands,ireland,3/2/20
+new zealand,kuwait,3/2/20
+spain,united kingdom,3/2/20
+united kingdom,spain,3/2/20
+united kingdom,denmark,3/2/20
+usa,united kingdom,3/2/20
+usa,norway,3/2/20
+usa,new zealand,3/2/20
+usa,france,3/2/20
+usa,france,3/2/20
+austria,iceland,3/3/20
+belgium,united kingdom,3/3/20
+belgium,denmark,3/3/20
+belgium,ireland,3/3/20
+belgium,switzerland,3/3/20
+belgium,usa,3/3/20
+belgium,netherlands,3/3/20
+canada,usa,3/3/20
+canada,italy,3/3/20
+china,spain,3/3/20
+france,netherlands,3/3/20
+france,india,3/3/20
+france,senegal,3/3/20
+germany,netherlands,3/3/20
+iran,austria,3/3/20
+ireland,denmark,3/3/20
+italy,finland,3/3/20
+italy,india,3/3/20
+italy,india,3/3/20
+italy,india,3/3/20
+italy,india,3/3/20
+italy,india,3/3/20
+italy,finland,3/3/20
+italy,iceland,3/3/20
+italy,brazil,3/3/20
+italy,iceland,3/3/20
+netherlands,france,3/3/20
+netherlands,portugal,3/3/20
+netherlands,germany,3/3/20
+spain,chile,3/3/20
+united kingdom,poland,3/3/20
+united kingdom,brazil,3/3/20
+united kingdom,denmark,3/3/20
+united kingdom,ireland,3/3/20
+usa,denmark,3/3/20
+austria,iceland,3/4/20
+austria,iceland,3/4/20
+austria,iceland,3/4/20
+belgium,portugal,3/4/20
+belgium,brazil,3/4/20
+belgium,netherlands,3/4/20
+brazil,france,3/4/20
+france,switzerland,3/4/20
+france,switzerland,3/4/20
+france,belgium,3/4/20
+france,senegal,3/4/20
+hong kong,canada,3/4/20
+iran,pakistan,3/4/20
+iran,australia,3/4/20
+iran,canada,3/4/20
+iran,canada,3/4/20
+iran,australia,3/4/20
+iran,finland,3/4/20
+italy,brazil,3/4/20
+italy,iceland,3/4/20
+netherlands,finland,3/4/20
+netherlands,new zealand,3/4/20
+norway,united kingdom,3/4/20
+spain,usa,3/4/20
+spain,italy,3/4/20
+united kingdom,brazil,3/4/20
+united kingdom,netherlands,3/4/20
+usa,brazil,3/4/20
+usa,brazil,3/4/20
+usa,france,3/4/20
+usa,france,3/4/20
+australia,united kingdom,3/5/20
+australia,singapore,3/5/20
+australia,united kingdom,3/5/20
+belgium,norway,3/5/20
+belgium,switzerland,3/5/20
+europe,canada,3/5/20
+italy,iceland,3/5/20
+italy,brazil,3/5/20
+italy,chile,3/5/20
+netherlands,georgia,3/5/20
+netherlands,belgium,3/5/20
+netherlands,finland,3/5/20
+united kingdom,slovenia,3/5/20
+united kingdom,canada,3/5/20
+usa,canada,3/5/20
+usa,canada,3/5/20
+usa,norway,3/5/20
+usa,belgium,3/5/20
+usa,france,3/5/20
+belgium,slovakia,3/6/20
+brazil,slovenia,3/6/20
+china,singapore,3/6/20
+china,netherlands,3/6/20
+france,luxembourg,3/6/20
+france,switzerland,3/6/20
+france,slovakia,3/6/20
+france,iceland,3/6/20
+iran,australia,3/6/20
+luxembourg,austria,3/6/20
+netherlands,france,3/6/20
+netherlands,ireland,3/6/20
+netherlands,ireland,3/6/20
+spain,chile,3/6/20
+spain,panama,3/6/20
+switzerland,colombia,3/6/20
+switzerland,united kingdom,3/6/20
+united kingdom,belgium,3/6/20
+united kingdom,netherlands,3/6/20
+usa,canada,3/6/20
+australia,saudi arabia,3/7/20
+belgium,south africa,3/7/20
+belgium,vietnam,3/7/20
+france,slovakia,3/7/20
+france,canada,3/7/20
+luxembourg,netherlands,3/7/20
+netherlands,united kingdom,3/7/20
+netherlands,usa,3/7/20
+netherlands,united kingdom,3/7/20
+netherlands,finland,3/7/20
+netherlands,argentina,3/7/20
+switzerland,canada,3/7/20
+united kingdom,belgium,3/7/20
+usa,france,3/7/20
+usa,france,3/7/20
+usa,france,3/7/20
+usa,iceland,3/7/20
+usa,canada,3/7/20
+belgium,norway,3/8/20
+belgium,canada,3/8/20
+belgium,ireland,3/8/20
+belgium,united kingdom,3/8/20
+belgium,australia,3/8/20
+belgium,ireland,3/8/20
+egypt,japan,3/8/20
+france,switzerland,3/8/20
+france,luxembourg,3/8/20
+france,iceland,3/8/20
+japan,ireland,3/8/20
+netherlands,slovakia,3/8/20
+spain,georgia,3/8/20
+united kingdom,netherlands,3/8/20
+united kingdom,portugal,3/8/20
+united kingdom,portugal,3/8/20
+united kingdom,finland,3/8/20
+usa,canada,3/8/20
+usa,united kingdom,3/8/20
+usa,france,3/8/20
+australia,united kingdom,3/9/20
+belgium,spain,3/9/20
+belgium,netherlands,3/9/20
+canada,usa,3/9/20
+china,netherlands,3/9/20
+china,spain,3/9/20
+egypt,japan,3/9/20
+france,canada,3/9/20
+france,democratic republic of the congo,3/9/20
+france,iceland,3/9/20
+italy,spain,3/9/20
+italy,iceland,3/9/20
+italy,iceland,3/9/20
+netherlands,ecuador,3/9/20
+netherlands,belgium,3/9/20
+netherlands,iceland,3/9/20
+netherlands,united kingdom,3/9/20
+united kingdom,netherlands,3/9/20
+usa,canada,3/9/20
+usa,canada,3/9/20
+usa,luxembourg,3/9/20
+usa,norway,3/9/20
+usa,canada,3/9/20
+australia,georgia,3/10/20
+austria,iceland,3/10/20
+austria,iceland,3/10/20
+belgium,usa,3/10/20
+belgium,norway,3/10/20
+egypt,japan,3/10/20
+egypt,japan,3/10/20
+france,iceland,3/10/20
+netherlands,ireland,3/10/20
+netherlands,luxembourg,3/10/20
+netherlands,iceland,3/10/20
+spain,austria,3/10/20
+switzerland,iceland,3/10/20
+united kingdom,portugal,3/10/20
+united kingdom,netherlands,3/10/20
+united kingdom,usa,3/10/20
+united kingdom,belgium,3/10/20
+united kingdom,ireland,3/10/20
+usa,canada,3/10/20
+usa,singapore,3/10/20
+usa,united kingdom,3/10/20
+usa,netherlands,3/10/20
+usa,ireland,3/10/20
+usa,canada,3/10/20
+usa,france,3/10/20
+usa,germany,3/10/20
+usa,norway,3/10/20
+australia,canada,3/11/20
+australia,usa,3/11/20
+austria,iceland,3/11/20
+austria,usa,3/11/20
+austria,luxembourg,3/11/20
+belgium,france,3/11/20
+chile,colombia,3/11/20
+china,canada,3/11/20
+egypt,japan,3/11/20
+france,luxembourg,3/11/20
+france,canada,3/11/20
+france,democratic republic of the congo,3/11/20
+germany,iceland,3/11/20
+italy,spain,3/11/20
+italy,iceland,3/11/20
+luxembourg,canada,3/11/20
+netherlands,germany,3/11/20
+spain,netherlands,3/11/20
+spain,luxembourg,3/11/20
+united kingdom,new zealand,3/11/20
+united kingdom,new zealand,3/11/20
+united kingdom,usa,3/11/20
+united kingdom,germany,3/11/20
+united kingdom,iceland,3/11/20
+united kingdom,germany,3/11/20
+united kingdom,germany,3/11/20
+usa,canada,3/11/20
+usa,canada,3/11/20
+usa,australia,3/11/20
+usa,japan,3/11/20
+usa,portugal,3/11/20
+usa,canada,3/11/20
+usa,canada,3/11/20
+usa,austria,3/11/20
+usa,luxembourg,3/11/20
+australia,canada,3/12/20
+australia,canada,3/12/20
+australia,portugal,3/12/20
+austria,netherlands,3/12/20
+belgium,usa,3/12/20
+belgium,usa,3/12/20
+belgium,united kingdom,3/12/20
+belgium,canada,3/12/20
+belgium,canada,3/12/20
+belgium,portugal,3/12/20
+belgium,luxembourg,3/12/20
+china,singapore,3/12/20
+egypt,japan,3/12/20
+egypt,japan,3/12/20
+egypt,japan,3/12/20
+france,canada,3/12/20
+france,luxembourg,3/12/20
+iceland,germany,3/12/20
+singapore,pakistan,3/12/20
+united kingdom,canada,3/12/20
+united kingdom,iceland,3/12/20
+united kingdom,canada,3/12/20
+united kingdom,canada,3/12/20
+united kingdom,usa,3/12/20
+usa,canada,3/12/20
+usa,iceland,3/12/20
+usa,canada,3/12/20
+usa,netherlands,3/12/20
+usa,germany,3/12/20
+usa,australia,3/12/20
+usa,canada,3/12/20
+usa,france,3/12/20
+usa,canada,3/12/20
+usa,canada,3/12/20
+usa,united kingdom,3/12/20
+usa,canada,3/12/20
+australia,taiwan,3/13/20
+austria,iceland,3/13/20
+austria,iceland,3/13/20
+austria,iceland,3/13/20
+belgium,usa,3/13/20
+belgium,canada,3/13/20
+belgium,finland,3/13/20
+brazil,senegal,3/13/20
+france,senegal,3/13/20
+france,japan,3/13/20
+france,canada,3/13/20
+france,finland,3/13/20
+germany,usa,3/13/20
+germany,finland,3/13/20
+germany,finland,3/13/20
+iceland,finland,3/13/20
+italy,iceland,3/13/20
+japan,usa,3/13/20
+luxembourg,iceland,3/13/20
+luxembourg,usa,3/13/20
+luxembourg,germany,3/13/20
+netherlands,canada,3/13/20
+netherlands,finland,3/13/20
+netherlands,iceland,3/13/20
+netherlands,iceland,3/13/20
+netherlands,germany,3/13/20
+netherlands,belgium,3/13/20
+netherlands,finland,3/13/20
+portugal,georgia,3/13/20
+spain,australia,3/13/20
+spain,canada,3/13/20
+spain,austria,3/13/20
+united kingdom,netherlands,3/13/20
+united kingdom,australia,3/13/20
+united kingdom,brazil,3/13/20
+united kingdom,iceland,3/13/20
+united kingdom,brazil,3/13/20
+united kingdom,iceland,3/13/20
+united kingdom,portugal,3/13/20
+usa,canada,3/13/20
+usa,australia,3/13/20
+usa,canada,3/13/20
+usa,canada,3/13/20
+usa,netherlands,3/13/20
+usa,finland,3/13/20
+usa,canada,3/13/20
+usa,portugal,3/13/20
+usa,finland,3/13/20
+usa,finland,3/13/20
+usa,canada,3/13/20
+australia,usa,3/14/20
+australia,usa,3/14/20
+australia,finland,3/14/20
+belgium,italy,3/14/20
+belgium,usa,3/14/20
+belgium,usa,3/14/20
+belgium,usa,3/14/20
+germany,iceland,3/14/20
+italy,iceland,3/14/20
+japan,taiwan,3/14/20
+netherlands,finland,3/14/20
+spain,united kingdom,3/14/20
+spain,finland,3/14/20
+united kingdom,belgium,3/14/20
+united kingdom,austria,3/14/20
+united kingdom,finland,3/14/20
+united kingdom,germany,3/14/20
+united kingdom,finland,3/14/20
+united kingdom,usa,3/14/20
+united kingdom,brazil,3/14/20
+united kingdom,italy,3/14/20
+united kingdom,canada,3/14/20
+united kingdom,usa,3/14/20
+usa,australia,3/14/20
+usa,norway,3/14/20
+usa,finland,3/14/20
+usa,georgia,3/14/20
+usa,belgium,3/14/20
+usa,finland,3/14/20
+usa,luxembourg,3/14/20
+usa,australia,3/14/20
+usa,germany,3/14/20
+usa,germany,3/14/20
+usa,finland,3/14/20
+australia,new zealand,3/15/20
+australia,iceland,3/15/20
+belgium,germany,3/15/20
+belgium,luxembourg,3/15/20
+belgium,austria,3/15/20
+canada,luxembourg,3/15/20
+china,new zealand,3/15/20
+france,russia,3/15/20
+germany,usa,3/15/20
+luxembourg,germany,3/15/20
+spain,usa,3/15/20
+spain,portugal,3/15/20
+switzerland,luxembourg,3/15/20
+united kingdom,iceland,3/15/20
+united kingdom,germany,3/15/20
+united kingdom,usa,3/15/20
+united kingdom,germany,3/15/20
+usa,australia,3/15/20
+usa,australia,3/15/20
+usa,china,3/15/20
+usa,canada,3/15/20
+usa,australia,3/15/20
+usa,brazil,3/15/20
+usa,portugal,3/15/20
+australia,usa,3/16/20
+australia,germany,3/16/20
+austria,iceland,3/16/20
+austria,iceland,3/16/20
+austria,germany,3/16/20
+austria,germany,3/16/20
+austria,iceland,3/16/20
+austria,iceland,3/16/20
+belgium,luxembourg,3/16/20
+belgium,italy,3/16/20
+belgium,portugal,3/16/20
+belgium,iceland,3/16/20
+egypt,portugal,3/16/20
+germany,iceland,3/16/20
+germany,iceland,3/16/20
+portugal,france,3/16/20
+spain,brazil,3/16/20
+spain,austria,3/16/20
+spain,georgia,3/16/20
+spain,usa,3/16/20
+united kingdom,australia,3/16/20
+united kingdom,australia,3/16/20
+united kingdom,iceland,3/16/20
+united kingdom,iceland,3/16/20
+united kingdom,iceland,3/16/20
+usa,iceland,3/16/20
+usa,australia,3/16/20
+usa,united kingdom,3/16/20
+usa,australia,3/16/20
+usa,luxembourg,3/16/20
+usa,germany,3/16/20
+usa,austria,3/16/20
+australia,norway,3/17/20
+australia,france,3/17/20
+australia,usa,3/17/20
+australia,iceland,3/17/20
+austria,iceland,3/17/20
+austria,iceland,3/17/20
+belgium,luxembourg,3/17/20
+egypt,japan,3/17/20
+france,senegal,3/17/20
+france,democratic republic of the congo,3/17/20
+france,australia,3/17/20
+france,usa,3/17/20
+germany,senegal,3/17/20
+germany,iceland,3/17/20
+italy,portugal,3/17/20
+netherlands,norway,3/17/20
+netherlands,iceland,3/17/20
+netherlands,united kingdom,3/17/20
+spain,iceland,3/17/20
+spain,iceland,3/17/20
+spain,hungary,3/17/20
+spain,hungary,3/17/20
+spain,iceland,3/17/20
+switzerland,portugal,3/17/20
+united kingdom,portugal,3/17/20
+united kingdom,australia,3/17/20
+united kingdom,democratic republic of the congo,3/17/20
+united kingdom,iceland,3/17/20
+united kingdom,italy,3/17/20
+usa,iceland,3/17/20
+usa,australia,3/17/20
+usa,australia,3/17/20
+usa,iceland,3/17/20
+usa,iceland,3/17/20
+usa,iceland,3/17/20
+australia,brazil,3/18/20
+australia,italy,3/18/20
+australia,portugal,3/18/20
+austria,australia,3/18/20
+belgium,portugal,3/18/20
+belgium,democratic republic of the congo,3/18/20
+belgium,usa,3/18/20
+belgium,united kingdom,3/18/20
+belgium,australia,3/18/20
+belgium,usa,3/18/20
+belgium,united kingdom,3/18/20
+belgium,iceland,3/18/20
+belgium,democratic republic of the congo,3/18/20
+canada,luxembourg,3/18/20
+france,iceland,3/18/20
+france,iceland,3/18/20
+france,luxembourg,3/18/20
+france,luxembourg,3/18/20
+italy,france,3/18/20
+japan,russia,3/18/20
+netherlands,iceland,3/18/20
+spain,usa,3/18/20
+spain,australia,3/18/20
+spain,iceland,3/18/20
+switzerland,taiwan,3/18/20
+united kingdom,iceland,3/18/20
+united kingdom,portugal,3/18/20
+united kingdom,australia,3/18/20
+united kingdom,russia,3/18/20
+united kingdom,greece,3/18/20
+united kingdom,australia,3/18/20
+usa,australia,3/18/20
+usa,france,3/18/20
+usa,luxembourg,3/18/20
+usa,luxembourg,3/18/20
+usa,united kingdom,3/18/20
+usa,greece,3/18/20
+usa,argentina,3/18/20
+usa,senegal,3/18/20
+usa,russia,3/18/20
+usa,australia,3/18/20
+usa,iceland,3/18/20
+usa,australia,3/18/20
+australia,usa,3/19/20
+australia,italy,3/19/20
+australia,belgium,3/19/20
+australia,united kingdom,3/19/20
+belgium,italy,3/19/20
+belgium,austria,3/19/20
+france,democratic republic of the congo,3/19/20
+france,senegal,3/19/20
+france,portugal,3/19/20
+luxembourg,belgium,3/19/20
+netherlands,australia,3/19/20
+netherlands,taiwan,3/19/20
+netherlands,italy,3/19/20
+spain,united kingdom,3/19/20
+switzerland,brazil,3/19/20
+united kingdom,australia,3/19/20
+united kingdom,australia,3/19/20
+usa,france,3/19/20
+usa,brazil,3/19/20
+usa,australia,3/19/20
+usa,france,3/19/20
+usa,australia,3/19/20
+australia,portugal,3/20/20
+belgium,hungary,3/20/20
+belgium,taiwan,3/20/20
+egypt,japan,3/20/20
+france,portugal,3/20/20
+france,australia,3/20/20
+france,senegal,3/20/20
+iran,democratic republic of the congo,3/20/20
+spain,portugal,3/20/20
+united kingdom,democratic republic of the congo,3/20/20
+united kingdom,australia,3/20/20
+united kingdom,portugal,3/20/20
+united kingdom,portugal,3/20/20
+united kingdom,australia,3/20/20
+usa,senegal,3/20/20
+usa,australia,3/20/20
+usa,australia,3/20/20
+usa,senegal,3/20/20
+usa,australia,3/20/20
+usa,france,3/20/20
+usa,france,3/20/20
+usa,canada,3/20/20
+usa,australia,3/20/20
+belgium,portugal,3/21/20
+belgium,democratic republic of the congo,3/21/20
+canada,usa,3/21/20
+china,united kingdom,3/21/20
+france,taiwan,3/21/20
+france,australia,3/21/20
+france,australia,3/21/20
+united kingdom,democratic republic of the congo,3/21/20
+united kingdom,portugal,3/21/20
+united kingdom,portugal,3/21/20
+united kingdom,portugal,3/21/20
+usa,australia,3/21/20
+usa,australia,3/21/20
+usa,france,3/21/20
+belgium,usa,3/22/20
+belgium,portugal,3/22/20
+belgium,democratic republic of the congo,3/22/20
+belgium,portugal,3/22/20
+france,australia,3/22/20
+france,argentina,3/22/20
+france,australia,3/22/20
+france,democratic republic of the congo,3/22/20
+france,australia,3/22/20
+senegal,democratic republic of the congo,3/22/20
+spain,united kingdom,3/22/20
+spain,austria,3/22/20
+spain,portugal,3/22/20
+united kingdom,australia,3/22/20
+united kingdom,france,3/22/20
+usa,australia,3/22/20
+usa,france,3/22/20
+usa,france,3/22/20
+usa,australia,3/22/20
+usa,united kingdom,3/22/20
+australia,italy,3/23/20
+australia,france,3/23/20
+democratic republic of the congo,belgium,3/23/20
+france,belgium,3/23/20
+portugal,italy,3/23/20
+portugal,italy,3/23/20
+spain,usa,3/23/20
+spain,austria,3/23/20
+switzerland,france,3/23/20
+united kingdom,usa,3/23/20
+united kingdom,italy,3/23/20
+united kingdom,australia,3/23/20
+united kingdom,australia,3/23/20
+united kingdom,italy,3/23/20
+united kingdom,italy,3/23/20
+usa,australia,3/23/20
+usa,china,3/23/20
+usa,france,3/23/20
+australia,belgium,3/24/20
+belgium,australia,3/24/20
+belgium,australia,3/24/20
+china,belgium,3/24/20
+democratic republic of the congo,france,3/24/20
+france,usa,3/24/20
+france,usa,3/24/20
+netherlands,belgium,3/24/20
+united kingdom,belgium,3/24/20
+united kingdom,australia,3/24/20
+united kingdom,australia,3/24/20
+united kingdom,slovenia,3/24/20
+united kingdom,spain,3/24/20
+united kingdom,belgium,3/24/20
+united kingdom,usa,3/24/20
+usa,australia,3/24/20
+usa,france,3/24/20
+usa,united kingdom,3/24/20
+belgium,usa,3/25/20
+belgium,democratic republic of the congo,3/25/20
+france,usa,3/25/20
+united kingdom,belgium,3/25/20
+united kingdom,usa,3/25/20
+usa,australia,3/25/20
+usa,united kingdom,3/25/20
+belgium,democratic republic of the congo,3/26/20
+canada,united kingdom,3/26/20
+france,democratic republic of the congo,3/26/20
+switzerland,united kingdom,3/26/20
+spain,united kingdom,3/27/20
+usa,united kingdom,3/27/20
+belgium,united kingdom,3/28/20
+belgium,united kingdom,3/28/20
+belgium,georgia,3/28/20
+united kingdom,democratic republic of the congo,3/28/20
+usa,united kingdom,3/28/20
+usa,united kingdom,3/28/20
+china,georgia,3/30/20
+united kingdom,belgium,3/30/20
+united kingdom,belgium,3/30/20
+portugal,belgium,3/31/20
+portugal,belgium,3/31/20
+united kingdom,belgium,3/31/20
+united kingdom,georgia,4/1/20
